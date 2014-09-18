@@ -3,6 +3,7 @@
 body {
 	margin: 5px auto;
 	width: 60%;
+	min-width: 280px;
 	border-right: 1px solid #000000;
 	border-left: 1px solid #000000;
 	font-family: 'Lato', sans-serif;
